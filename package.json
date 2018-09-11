@@ -1,0 +1,14 @@
+{
+  "name": "boostrap_website",
+  "version": "1.0.0",
+  "description": "A simple bootstrap website template",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Serbanb Bondor",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
